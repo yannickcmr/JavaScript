@@ -47,5 +47,5 @@ function Rotation(rotation){
     return shifted_alpha
 }
 
-test = Cryptofy("lajeo", -22)
+test = Cryptofy("hallo", -22)
 console.log("Ergebnis: ", test)
